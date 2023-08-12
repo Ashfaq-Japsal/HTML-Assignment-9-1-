@@ -1,0 +1,13 @@
+
+#border1,th,td {
+    border: 1px solid;
+}
+
+#border2 {
+    border: 2px solid;
+    margin: 7% 35%;
+}
+
+.gray {
+    background-color: gray;
+}
